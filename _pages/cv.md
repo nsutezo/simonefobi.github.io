@@ -49,7 +49,7 @@ Skills
 Awards & Leadership
 ======
 * Best poster, IIASA-RITE International Workshop toward energy demand (2019)
-* Presidential Fellow Recipient, Columbia University (
+* Presidential Fellow Recipient, Columbia University
 * Fellow Recipient , American Association of University Women
 * Most Outstanding Student,Department of Environmental Eng, OSU 
 * Teaching Assistant, Engineering Economics, OSU
