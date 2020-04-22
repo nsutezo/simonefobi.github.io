@@ -24,7 +24,7 @@ Work experience
  * Building an Intelligent Irrigation System
  * Supervisor: Vijay Modi
 
-**Applied Science Intern, Descartes Labs (Summer 2018)**
+**Applied Science Intern, Descartes Labs (Summer 2019)**
  * Applying Generative Adversarial Networks to obtain Higher Resolution Satellite Images from Lower Resolution Images towards matching images from various satellites.
 
 **Research Assistant, IBM Research East Africa (August 2015 to August 2016)**
@@ -48,7 +48,8 @@ Skills
   
 Awards & Leadership
 ======
-* Presidential Fellow Recipient, Columbia University
+* Best poster, IIASA-RITE International Workshop toward energy demand (2019)
+* Presidential Fellow Recipient, Columbia University (
 * Fellow Recipient , American Association of University Women
 * Most Outstanding Student,Department of Environmental Eng, OSU 
 * Teaching Assistant, Engineering Economics, OSU
