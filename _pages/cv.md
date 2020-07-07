@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /cv/
 author_profile: true
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 redirect_from:
