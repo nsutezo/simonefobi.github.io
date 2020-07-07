@@ -83,6 +83,7 @@ analytics:
 author:
   name             : "Simone Fobi"
   avatar           : "profile.png"
+  cv               : "profile.png"
   bio              : "PhD Candidate, <br/> Mechanical Engineering, <br/> Energy Analytics Focus."
   location         : "Columbia University, NYC, USA"
   employer         :
@@ -103,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "profile.png"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
