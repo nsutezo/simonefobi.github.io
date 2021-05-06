@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+I am is a 5th year Mechanical Engineering PhD student, in the Quadracci Sustainable Engineering Lab (QSEL) at Columbia University. My research focuses on **Electricity Demand Analytics & Prediction** and **Energy System Design** .
 
-I am a fourth year PhD student in Mechanical Engineering in the Quadracci Sustainable Engineering Lab (QSEL). My research efforts are geared towards **Electricity Demand Prediction** and **Energy System Design**. 
+Through the e-GUIDE(https://eguide.io) initiative (a multi-university collaboration funded by the Rockefeller Foundation), I develop deep learning techniques to understand and predict latent electricity demand. My work combines large amount of electricity consumption data (obtained from electric meters) with remote sensed satellite imagery, to infer electricity demand.
 
-I apply deep learning to satellite images, to predict electricity usage. This is of interest to energy providers who can leverage such models to anticipate energy generation required to meet demand. Concurrently, I apply network optimization to design the placement of energy infrastructure (transformers, low and medium voltage lines), given anticipated demand. 
+This is of interest to energy providers who can leverage outputs from such techniques to design energy systems required to meet demand upon electrification.  Concurrently, I apply network optimization to design the placement of energy infrastructure (transformers, low and medium voltage lines), given anticipated demand. 
 
-Combining both models, I hope my research will contribute to the design and operation of more energy efficient systems, which offer high levels of reliability. 
+Prior to starting my PhD, I worked as a Research Scientist at the IBM Research - Africa Lab in Nairobi. There I focused on data-driven approaches for improving electricity access.
 
+I hope my research will contribute to the design and operation of more energy efficient systems, which offer high levels of reliability. 
 
 
 Education
