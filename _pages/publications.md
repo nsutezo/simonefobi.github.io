@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 
 ---
+* [A scalable framework to measure the impact of spatial heterogeneity on electrification](https://doi.org/10.1016/j.esd.2020.12.005)(2021)
 * [Learning to segment from misaligned and partial labels](https://arxiv.org/abs/2005.13180) (2020)
 * [Progressive Disentaglement Using Relevant Factor VAE](https://openreview.net/pdf?id=HJxcvrU6HB) (2019)
 * [A longitudinal study of electricity consumption growth in Kenya](https://doi.org/10.1016/j.enpol.2018.08.065) (2018) 
