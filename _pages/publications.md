@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 * [A scalable framework to measure the impact of spatial heterogeneity on electrification](https://doi.org/10.1016/j.esd.2020.12.005)(2021)
-* [I Spy With My Electricity Eye: Predicting levels of electricity consumption for residential buildings in Kenya from satellite imagery].(https://sites.google.com/view/ml4d/accepted-papers) Machine Learning for the Developing World (ML4D) Neurips Workshop (2020).
+* [I Spy With My Electricity Eye: Predicting levels of electricity consumption for residential buildings in Kenya from satellite imagery](https://sites.google.com/view/ml4d/accepted-papers) Machine Learning for the Developing World (ML4D) Neurips Workshop (2020).
 * [Learning to segment from misaligned and partial labels](https://arxiv.org/abs/2005.13180) (2020)
 * [Progressive Disentaglement Using Relevant Factor VAE](https://openreview.net/pdf?id=HJxcvrU6HB) (2019)
 * [A longitudinal study of electricity consumption growth in Kenya](https://doi.org/10.1016/j.enpol.2018.08.065) (2018) 
