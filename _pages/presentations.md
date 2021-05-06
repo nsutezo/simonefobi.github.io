@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 
 ---
-* ["How Remote Sensing Can Be of Value to the Energy Sector"]() presented at Columbia Global Center Nairobi (2021)
+* ["How Remote Sensing Can Be of Value to the Energy Sector"](https://youtu.be/rQXMfqJMlYA) presented at Columbia Global Center Nairobi (2021)
 * ["Leveraging demand data for improved energy access planning"](https://www.youtube.com/watch?v=qxQdb4PtzWk&t=1s) presented at Sustainable Energy FOR All (SEFORALL)(2021)
 * "Learning to segment from misaligned and partial labels". Paper(https://dl.acm.org/doi/10.1145/3378393.3402254) presented at ACM COMPASS (2020)
 * ["Opportunities and Challenges for Machine Learning in the African Electricity Sector"](https://www.youtube.com/watch?v=ZKMLPHb4vMs) presented at ICLR (2020)
