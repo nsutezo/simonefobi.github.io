@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am is a 5th year Mechanical Engineering PhD student, in the Quadracci Sustainable Engineering Lab (QSEL) at Columbia University. My research focuses on **Electricity Demand Analytics & Prediction** and **Energy System Design** .
+I am a 5th year Mechanical Engineering PhD student, in the Quadracci Sustainable Engineering Lab (QSEL) at Columbia University. My research focuses on **Electricity Demand Analytics & Prediction** and **Energy System Design** .
 
 Through the [e-GUIDE](https://eguide.io) initiative (a multi-university collaboration funded by the Rockefeller Foundation), I develop deep learning techniques to understand and predict latent electricity demand. My work combines large amounts of electricity consumption data (obtained from electric meters) with remote sensed satellite imagery, to infer electricity demand from satellite imagery.
 
